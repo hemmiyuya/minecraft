@@ -1,28 +1,29 @@
-[01:13:06] [ServerMain/INFO]: Building unoptimized datafixer
-[01:13:07] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:13:08] [ServerMain/INFO]: Loaded 7 recipes
-[01:13:08] [ServerMain/INFO]: Loaded 1179 advancements
-[01:13:09] [Server thread/INFO]: Starting minecraft server version 1.19
-[01:13:09] [Server thread/INFO]: Loading properties
-[01:13:09] [Server thread/INFO]: Default game type: SURVIVAL
-[01:13:09] [Server thread/INFO]: Generating keypair
-[01:13:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:13:09] [Server thread/INFO]: Using default channel type
-[01:13:09] [Server thread/INFO]: Preparing level "world"
-[01:13:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:13:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:13:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:13:12] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[01:13:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[01:13:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[01:13:12] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[01:13:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:13:13] [Worker-Main-10/INFO]: Preparing spawn area: 8%
-[01:13:13] [Server thread/INFO]: Time elapsed: 3690 ms
-[01:13:13] [Server thread/INFO]: Done (3.887s)! For help, type "help"
-[01:15:11] [User Authenticator #1/INFO]: UUID of player tenpensizimi is 933aff28-38d0-4ddc-b68d-b8d215ad8a9a
-[01:15:11] [Server thread/INFO]: tenpensizimi[/25.32.157.190:50583] logged in with entity id 30 at (352.42624074424805, 70.0, 1802.296307765269)
-[01:15:11] [Server thread/INFO]: tenpensizimi joined the game
-[01:15:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2889ms or 57 ticks behind
-[01:16:06] [Server thread/INFO]: tenpensizimi lost connection: Disconnected
-[01:16:06] [Server thread/INFO]: tenpensizimi left the game
+[01:18:29] [ServerMain/INFO]: Building unoptimized datafixer
+[01:18:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:18:31] [ServerMain/INFO]: Loaded 7 recipes
+[01:18:31] [ServerMain/INFO]: Loaded 1179 advancements
+[01:18:32] [Server thread/INFO]: Starting minecraft server version 1.19
+[01:18:32] [Server thread/INFO]: Loading properties
+[01:18:32] [Server thread/INFO]: Default game type: SURVIVAL
+[01:18:32] [Server thread/INFO]: Generating keypair
+[01:18:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:18:32] [Server thread/INFO]: Using default channel type
+[01:18:32] [Server thread/INFO]: Preparing level "world"
+[01:18:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:18:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:18:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:18:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:18:36] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[01:18:36] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[01:18:36] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[01:18:36] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[01:18:36] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[01:18:37] [Worker-Main-5/INFO]: Preparing spawn area: 42%
+[01:18:37] [Server thread/INFO]: Time elapsed: 4351 ms
+[01:18:37] [Server thread/INFO]: Done (4.568s)! For help, type "help"
+[01:19:12] [User Authenticator #1/INFO]: UUID of player tenpensizimi is 933aff28-38d0-4ddc-b68d-b8d215ad8a9a
+[01:19:12] [Server thread/INFO]: tenpensizimi[/25.32.157.190:50694] logged in with entity id 29 at (344.6536926329837, 71.0625, 1746.1488850345527)
+[01:19:12] [Server thread/INFO]: tenpensizimi joined the game
+[01:19:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[01:19:41] [Server thread/INFO]: tenpensizimi lost connection: Disconnected
+[01:19:41] [Server thread/INFO]: tenpensizimi left the game
