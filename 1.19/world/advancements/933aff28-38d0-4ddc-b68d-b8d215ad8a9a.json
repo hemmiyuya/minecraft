@@ -1353,9 +1353,10 @@
   "minecraft:husbandry/leash_all_frog_variants": {
     "criteria": {
       "minecraft:warm": "2022-06-19 20:08:37 +0900",
-      "minecraft:temperate": "2022-06-19 21:38:11 +0900"
+      "minecraft:temperate": "2022-06-19 21:38:11 +0900",
+      "minecraft:cold": "2022-06-23 21:59:05 +0900"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {

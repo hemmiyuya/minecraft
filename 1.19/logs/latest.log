@@ -1,20 +1,33 @@
-[23:56:51] [ServerMain/INFO]: Building unoptimized datafixer
-[23:56:52] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23:56:53] [ServerMain/INFO]: Loaded 7 recipes
-[23:56:53] [ServerMain/INFO]: Loaded 1179 advancements
-[23:56:54] [Server thread/INFO]: Starting minecraft server version 1.19
-[23:56:54] [Server thread/INFO]: Loading properties
-[23:56:54] [Server thread/INFO]: Default game type: SURVIVAL
-[23:56:54] [Server thread/INFO]: Generating keypair
-[23:56:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:56:54] [Server thread/INFO]: Using default channel type
-[23:56:54] [Server thread/INFO]: Preparing level "world"
-[23:56:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:56:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[23:56:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:56:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:56:56] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[23:56:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:56:57] [Worker-Main-13/INFO]: Preparing spawn area: 5%
-[23:56:57] [Server thread/INFO]: Time elapsed: 2830 ms
-[23:56:57] [Server thread/INFO]: Done (2.944s)! For help, type "help"
+[21:20:33] [ServerMain/INFO]: Building unoptimized datafixer
+[21:20:34] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:20:35] [ServerMain/INFO]: Loaded 7 recipes
+[21:20:35] [ServerMain/INFO]: Loaded 1179 advancements
+[21:20:36] [Server thread/INFO]: Starting minecraft server version 1.19
+[21:20:36] [Server thread/INFO]: Loading properties
+[21:20:36] [Server thread/INFO]: Default game type: SURVIVAL
+[21:20:36] [Server thread/INFO]: Generating keypair
+[21:20:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:20:36] [Server thread/INFO]: Using default channel type
+[21:20:36] [Server thread/INFO]: Preparing level "world"
+[21:20:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:20:39] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:20:39] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:20:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:20:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:20:39] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[21:20:39] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:20:39] [Worker-Main-8/INFO]: Preparing spawn area: 70%
+[21:20:40] [Server thread/INFO]: Time elapsed: 3180 ms
+[21:20:40] [Server thread/INFO]: Done (3.326s)! For help, type "help"
+[21:25:01] [User Authenticator #1/INFO]: UUID of player tenpensizimi is 933aff28-38d0-4ddc-b68d-b8d215ad8a9a
+[21:25:01] [Server thread/INFO]: tenpensizimi[/25.32.157.190:64749] logged in with entity id 28 at (357.69999998807907, 70.0, 1891.5807943785624)
+[21:25:01] [Server thread/INFO]: tenpensizimi joined the game
+[21:25:29] [User Authenticator #2/INFO]: UUID of player tantanpanda0513 is ef5e7c02-8b94-4b4d-a3a1-14c1cdd92a19
+[21:25:29] [Server thread/INFO]: tantanpanda0513[/25.33.82.249:61096] logged in with entity id 384 at (342.61669743488693, 64.0, 1730.8719432229937)
+[21:25:29] [Server thread/INFO]: tantanpanda0513 joined the game
+[21:51:47] [Server thread/INFO]: tantanpanda0513 has made the advancement [Bukkit Bukkit]
+[21:59:05] [Server thread/INFO]: tenpensizimi has made the advancement [When the Squad Hops into Town]
+[22:33:23] [Server thread/INFO]: tenpensizimi lost connection: Disconnected
+[22:33:23] [Server thread/INFO]: tenpensizimi left the game
+[22:33:35] [Server thread/INFO]: tantanpanda0513 lost connection: Disconnected
+[22:33:35] [Server thread/INFO]: tantanpanda0513 left the game
