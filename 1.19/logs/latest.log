@@ -1,69 +1,58 @@
-[09:40:04] [ServerMain/INFO]: Building unoptimized datafixer
-[09:40:04] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09:40:05] [ServerMain/INFO]: Loaded 7 recipes
-[09:40:06] [ServerMain/INFO]: Loaded 1179 advancements
-[09:40:06] [Server thread/INFO]: Starting minecraft server version 1.19
-[09:40:06] [Server thread/INFO]: Loading properties
-[09:40:06] [Server thread/INFO]: Default game type: SURVIVAL
-[09:40:06] [Server thread/INFO]: Generating keypair
-[09:40:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:40:06] [Server thread/INFO]: Using default channel type
-[09:40:06] [Server thread/INFO]: Preparing level "world"
-[09:40:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:40:08] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[09:40:08] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[09:40:08] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[09:40:08] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[09:40:09] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[09:40:09] [Worker-Main-11/INFO]: Preparing spawn area: 5%
-[09:40:09] [Server thread/INFO]: Time elapsed: 2816 ms
-[09:40:09] [Server thread/INFO]: Done (3.013s)! For help, type "help"
-[09:42:08] [User Authenticator #1/INFO]: UUID of player tantanpanda0513 is ef5e7c02-8b94-4b4d-a3a1-14c1cdd92a19
-[09:42:09] [Server thread/INFO]: tantanpanda0513[/25.33.82.249:54444] logged in with entity id 27 at (-389.8594379752069, 200.0, 1339.300000011921)
-[09:42:09] [Server thread/INFO]: tantanpanda0513 joined the game
-[09:42:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
-[12:50:52] [User Authenticator #2/INFO]: UUID of player tenpensizimi is 933aff28-38d0-4ddc-b68d-b8d215ad8a9a
-[12:50:52] [Server thread/INFO]: tenpensizimi[/25.32.157.190:53722] logged in with entity id 8798 at (-193.63007252923066, 32.0, -322.63124911983897)
-[12:50:52] [Server thread/INFO]: tenpensizimi joined the game
-[12:57:02] [Server thread/INFO]: tenpensizimi has completed the challenge [With Our Powers Combined!]
-[13:57:36] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=20, y=38, z=111} gt{x=20, y=35, z=106}
-[13:57:36] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=20, y=38, z=111} gt{x=20, y=35, z=106}
-[13:57:36] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=20, y=38, z=111} gt{x=20, y=35, z=106}
-[13:57:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=20, y=38, z=111} gt{x=22, y=33, z=101}
-[13:57:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=20, y=38, z=111} gt{x=22, y=33, z=101}
-[13:57:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=32, z=100} gt{x=21, y=33, z=100}
-[13:57:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=32, z=100} gt{x=26, y=32, z=97}
-[13:57:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=32, z=100} gt{x=26, y=32, z=97}
-[14:00:47] [Server thread/WARN]: tenpensizimi moved too quickly! -7.122738197495121,-7.231523797587016,-0.41973220454340776
-[14:00:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
-[15:02:09] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=37, y=60, z=205} gt{x=33, y=60, z=207}
-[15:02:09] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=37, y=60, z=205} gt{x=33, y=60, z=207}
-[15:04:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=42, y=60, z=180} gt{x=30, y=65, z=200}
-[15:04:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=42, y=60, z=180} gt{x=30, y=65, z=200}
-[15:04:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=42, y=60, z=180} gt{x=30, y=65, z=200}
-[15:14:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=39, y=76, z=181} gt{x=39, y=77, z=182}
-[15:14:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=39, y=76, z=181} gt{x=39, y=77, z=182}
-[15:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=38, y=77, z=187} gt{x=40, y=77, z=182}
-[15:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=38, y=77, z=187} gt{x=40, y=77, z=182}
-[15:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=38, y=77, z=187} gt{x=40, y=77, z=182}
-[15:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=38, y=77, z=187} gt{x=40, y=77, z=182}
-[15:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=38, y=77, z=187} gt{x=40, y=77, z=182}
-[15:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=38, y=77, z=187} gt{x=40, y=77, z=182}
-[15:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=38, y=77, z=187} gt{x=40, y=77, z=182}
-[15:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=38, y=77, z=187} gt{x=40, y=77, z=182}
-[15:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=38, y=77, z=187} gt{x=40, y=77, z=182}
-[15:30:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=68, z=199} gt{x=31, y=62, z=205}
-[15:30:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=68, z=199} gt{x=31, y=62, z=205}
-[15:30:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=68, z=199} gt{x=31, y=62, z=205}
-[15:30:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=68, z=199} gt{x=31, y=62, z=205}
-[15:30:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=68, z=199} gt{x=31, y=62, z=205}
-[15:30:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=68, z=199} gt{x=31, y=62, z=205}
-[15:30:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=68, z=199} gt{x=31, y=62, z=205}
-[15:38:49] [Server thread/INFO]: tenpensizimi lost connection: Disconnected
-[15:38:49] [Server thread/INFO]: tenpensizimi left the game
-[15:48:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=300, y=68, z=1730} gt{x=299, y=67, z=1729}
-[15:48:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=300, y=68, z=1730} gt{x=299, y=67, z=1729}
-[15:48:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=300, y=68, z=1730} gt{x=299, y=67, z=1729}
-[15:48:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=300, y=68, z=1730} gt{x=299, y=67, z=1729}
-[16:02:04] [Server thread/INFO]: tantanpanda0513 lost connection: Disconnected
-[16:02:04] [Server thread/INFO]: tantanpanda0513 left the game
+[21:17:22] [ServerMain/INFO]: Building unoptimized datafixer
+[21:17:23] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:17:24] [ServerMain/INFO]: Loaded 7 recipes
+[21:17:24] [ServerMain/INFO]: Loaded 1179 advancements
+[21:17:25] [Server thread/INFO]: Starting minecraft server version 1.19
+[21:17:25] [Server thread/INFO]: Loading properties
+[21:17:25] [Server thread/INFO]: Default game type: SURVIVAL
+[21:17:25] [Server thread/INFO]: Generating keypair
+[21:17:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:17:25] [Server thread/INFO]: Using default channel type
+[21:17:25] [Server thread/INFO]: Preparing level "world"
+[21:17:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:17:27] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[21:17:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:17:27] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:17:27] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:17:27] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:17:28] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[21:17:28] [Worker-Main-2/INFO]: Preparing spawn area: 74%
+[21:17:29] [Server thread/INFO]: Time elapsed: 3102 ms
+[21:17:29] [Server thread/INFO]: Done (3.251s)! For help, type "help"
+[21:18:58] [User Authenticator #1/INFO]: UUID of player tantanpanda0513 is ef5e7c02-8b94-4b4d-a3a1-14c1cdd92a19
+[21:18:58] [Server thread/INFO]: tantanpanda0513[/25.33.82.249:53594] logged in with entity id 29 at (37.16596973190678, 61.0625, 205.65722619640164)
+[21:18:58] [Server thread/INFO]: tantanpanda0513 joined the game
+[21:22:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=349, y=68, z=1369} gt{x=349, y=68, z=1368}
+[21:22:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=349, y=68, z=1369} gt{x=349, y=68, z=1368}
+[21:22:32] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=353, y=64, z=1370} gt{x=363, y=67, z=1370}
+[21:22:32] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=353, y=64, z=1370} gt{x=363, y=67, z=1370}
+[21:22:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=353, y=64, z=1370} gt{x=363, y=67, z=1370}
+[21:22:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=353, y=64, z=1370} gt{x=363, y=67, z=1370}
+[21:22:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=353, y=64, z=1370} gt{x=363, y=67, z=1370}
+[21:22:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=353, y=64, z=1370} gt{x=363, y=67, z=1370}
+[21:22:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=353, y=64, z=1370} gt{x=363, y=67, z=1370}
+[21:22:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=353, y=64, z=1370} gt{x=363, y=67, z=1370}
+[21:22:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=353, y=64, z=1370} gt{x=363, y=67, z=1370}
+[21:22:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=353, y=64, z=1370} gt{x=363, y=67, z=1370}
+[21:22:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=353, y=64, z=1370} gt{x=363, y=67, z=1370}
+[21:22:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=353, y=64, z=1370} gt{x=363, y=67, z=1370}
+[21:22:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=353, y=64, z=1370} gt{x=363, y=67, z=1370}
+[21:22:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=353, y=64, z=1370} gt{x=363, y=67, z=1370}
+[21:22:55] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=348, y=71, z=1360} gt{x=348, y=70, z=1361}
+[21:23:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=354, y=66, z=1367} gt{x=355, y=66, z=1367}
+[21:23:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=344, y=68, z=1366} gt{x=345, y=66, z=1368}
+[21:23:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=344, y=68, z=1366} gt{x=345, y=66, z=1368}
+[21:23:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=344, y=68, z=1366} gt{x=345, y=66, z=1368}
+[21:23:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=346, y=67, z=1368} gt{x=345, y=66, z=1368}
+[21:23:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=341, y=67, z=1365} gt{x=337, y=66, z=1362}
+[21:23:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=342, y=69, z=1364} gt{x=339, y=67, z=1363}
+[21:23:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=342, y=69, z=1364} gt{x=339, y=67, z=1363}
+[21:23:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=348, y=70, z=1364} gt{x=349, y=70, z=1366}
+[21:24:00] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=335, y=68, z=1361} gt{x=335, y=67, z=1361}
+[21:24:00] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=335, y=68, z=1361} gt{x=335, y=67, z=1361}
+[21:27:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=73, z=212} gt{x=22, y=73, z=213}
+[21:52:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=46, y=73, z=198} gt{x=23, y=73, z=198}
+[21:52:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=46, y=73, z=198} gt{x=23, y=73, z=198}
+[22:03:51] [Server thread/INFO]: tantanpanda0513 has made the advancement [Oh Shiny]
+[22:06:51] [Server thread/INFO]: tantanpanda0513 lost connection: Disconnected
+[22:06:51] [Server thread/INFO]: tantanpanda0513 left the game
