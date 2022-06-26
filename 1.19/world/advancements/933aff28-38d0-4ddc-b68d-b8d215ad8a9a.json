@@ -840,6 +840,7 @@
       "minecraft:piglin_brute": "2022-06-10 23:31:54 +0900",
       "minecraft:spider": "2022-06-11 16:46:45 +0900",
       "minecraft:creeper": "2022-06-10 22:25:44 +0900",
+      "minecraft:wither": "2022-06-26 13:28:34 +0900",
       "minecraft:slime": "2022-06-12 17:03:03 +0900",
       "minecraft:evoker": "2022-06-19 20:56:32 +0900",
       "minecraft:phantom": "2022-06-19 13:19:14 +0900",
@@ -1206,6 +1207,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2022-06-26 13:35:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-06-12 18:34:58 +0900"
@@ -1397,6 +1404,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2022-06-10 22:39:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2022-06-26 13:27:21 +0900"
     },
     "done": true
   },
@@ -2254,6 +2267,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2022-06-26 13:35:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2022-06-10 22:01:59 +0900"
@@ -2299,6 +2318,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
     "criteria": {
       "has_deepslate_gold_ore": "2022-06-12 14:17:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-06-26 13:23:20 +0900"
     },
     "done": true
   },
@@ -2568,6 +2593,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2022-06-26 12:35:45 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2022-06-11 21:35:59 +0900"
@@ -2651,6 +2682,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2022-06-10 22:34:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2022-06-26 13:24:00 +0900"
     },
     "done": true
   },
@@ -3443,6 +3480,12 @@
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2022-06-12 11:49:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2022-06-26 12:35:45 +0900"
     },
     "done": true
   },

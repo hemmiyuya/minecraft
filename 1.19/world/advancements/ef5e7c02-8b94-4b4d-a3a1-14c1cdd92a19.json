@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2022-06-26 13:03:30 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2022-06-10 22:49:39 +0900"
@@ -557,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2022-06-26 12:05:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2022-06-18 01:22:47 +0900"
@@ -710,6 +722,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-06-10 23:01:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2022-06-26 13:47:58 +0900"
     },
     "done": true
   },
@@ -961,6 +979,7 @@
       "minecraft:magma_cube": "2022-06-18 23:06:29 +0900",
       "minecraft:spider": "2022-06-11 16:40:11 +0900",
       "minecraft:creeper": "2022-06-11 15:52:49 +0900",
+      "minecraft:wither": "2022-06-26 13:26:31 +0900",
       "minecraft:evoker": "2022-06-19 01:57:50 +0900",
       "minecraft:phantom": "2022-06-19 14:23:54 +0900",
       "minecraft:zombified_piglin": "2022-06-12 13:31:27 +0900",
@@ -1397,6 +1416,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2022-06-26 13:41:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2022-06-13 18:30:34 +0900"
@@ -1610,6 +1635,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2022-06-10 23:16:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2022-06-26 13:23:50 +0900"
     },
     "done": true
   },
@@ -2155,6 +2186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2022-06-26 12:42:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2022-06-16 14:16:34 +0900"
@@ -2303,6 +2340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2022-06-26 12:05:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2022-06-18 22:43:23 +0900"
@@ -2318,6 +2361,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2022-06-23 20:34:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2022-06-26 11:34:55 +0900"
     },
     "done": true
   },
@@ -2402,6 +2451,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2022-06-24 21:55:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2022-06-26 11:34:55 +0900"
     },
     "done": true
   },
@@ -2567,6 +2622,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2022-06-26 13:41:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2022-06-16 14:13:04 +0900"
@@ -2615,6 +2676,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-06-26 13:23:20 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2022-06-11 18:58:49 +0900"
@@ -2645,6 +2712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2022-06-26 12:42:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2022-06-10 22:46:52 +0900",
@@ -2669,6 +2742,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2022-06-19 12:06:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2022-06-26 13:03:30 +0900"
     },
     "done": true
   },
@@ -2921,6 +3000,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cat": "2022-06-12 17:28:59 +0900",
+      "minecraft:pig": "2022-06-26 09:44:12 +0900",
       "minecraft:sheep": "2022-06-19 14:31:10 +0900",
       "minecraft:cow": "2022-06-18 22:00:32 +0900"
     },
@@ -2983,6 +3063,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2022-06-10 22:49:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2022-06-26 13:28:34 +0900"
     },
     "done": true
   },
@@ -3226,6 +3312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2022-06-26 13:06:12 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-06-10 22:25:10 +0900"
@@ -3235,6 +3327,12 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2022-06-14 18:41:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2022-06-26 11:26:36 +0900"
     },
     "done": true
   },
@@ -3265,6 +3363,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2022-06-10 22:02:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2022-06-26 13:06:12 +0900"
     },
     "done": true
   },
@@ -3670,6 +3774,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2022-06-26 14:36:26 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-06-11 16:01:27 +0900"
@@ -3973,6 +4083,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2022-06-11 19:03:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2022-06-26 11:26:21 +0900"
     },
     "done": true
   },
