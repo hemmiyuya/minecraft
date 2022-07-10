@@ -1,33 +1,35 @@
-[15:36:23] [ServerMain/INFO]: Building unoptimized datafixer
-[15:36:23] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:36:24] [ServerMain/INFO]: Loaded 7 recipes
-[15:36:25] [ServerMain/INFO]: Loaded 1179 advancements
-[15:36:25] [Server thread/INFO]: Starting minecraft server version 1.19
-[15:36:25] [Server thread/INFO]: Loading properties
-[15:36:25] [Server thread/INFO]: Default game type: SURVIVAL
-[15:36:25] [Server thread/INFO]: Generating keypair
-[15:36:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:36:25] [Server thread/INFO]: Using default channel type
-[15:36:25] [Server thread/INFO]: Preparing level "world"
-[15:36:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:36:27] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[15:36:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:36:27] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[15:36:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:36:28] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[15:36:28] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[15:36:29] [Worker-Main-10/INFO]: Preparing spawn area: 80%
-[15:36:29] [Server thread/INFO]: Time elapsed: 3086 ms
-[15:36:29] [Server thread/INFO]: Done (3.228s)! For help, type "help"
-[15:38:19] [User Authenticator #1/INFO]: UUID of player tantanpanda0513 is ef5e7c02-8b94-4b4d-a3a1-14c1cdd92a19
-[15:38:20] [Server thread/INFO]: tantanpanda0513[/25.33.82.249:51366] logged in with entity id 27 at (343.30000001192093, 65.5625, 1750.300000011921)
-[15:38:20] [Server thread/INFO]: tantanpanda0513 joined the game
-[15:38:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2795ms or 55 ticks behind
-[15:47:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=296, y=64, z=1718} gt{x=291, y=63, z=1718}
-[15:47:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=296, y=64, z=1718} gt{x=291, y=63, z=1718}
-[15:47:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=296, y=64, z=1718} gt{x=291, y=63, z=1718}
-[15:47:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=295, y=65, z=1716} gt{x=296, y=65, z=1717}
-[15:47:54] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=299, y=66, z=1712} gt{x=299, y=65, z=1712}
-[15:47:54] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=299, y=66, z=1712} gt{x=299, y=65, z=1712}
-[17:50:16] [Server thread/INFO]: tantanpanda0513 lost connection: Disconnected
-[17:50:16] [Server thread/INFO]: tantanpanda0513 left the game
+[11:40:47] [ServerMain/INFO]: Building unoptimized datafixer
+[11:40:48] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:40:49] [ServerMain/INFO]: Loaded 7 recipes
+[11:40:49] [ServerMain/INFO]: Loaded 1179 advancements
+[11:40:50] [Server thread/INFO]: Starting minecraft server version 1.19
+[11:40:50] [Server thread/INFO]: Loading properties
+[11:40:50] [Server thread/INFO]: Default game type: SURVIVAL
+[11:40:50] [Server thread/INFO]: Generating keypair
+[11:40:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:40:50] [Server thread/INFO]: Using default channel type
+[11:40:50] [Server thread/INFO]: Preparing level "world"
+[11:40:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:40:53] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[11:40:53] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[11:40:53] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[11:40:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:40:53] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[11:40:53] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:40:53] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:40:54] [Worker-Main-9/INFO]: Preparing spawn area: 2%
+[11:40:54] [Worker-Main-6/INFO]: Preparing spawn area: 71%
+[11:40:55] [Server thread/INFO]: Time elapsed: 4113 ms
+[11:40:55] [Server thread/INFO]: Done (4.325s)! For help, type "help"
+[11:42:45] [User Authenticator #1/INFO]: UUID of player tenpensizimi is 933aff28-38d0-4ddc-b68d-b8d215ad8a9a
+[11:42:45] [Server thread/INFO]: tenpensizimi[/25.32.157.190:58237] logged in with entity id 27 at (357.54005619402835, 70.0, 1892.518081666003)
+[11:42:46] [Server thread/INFO]: tenpensizimi joined the game
+[11:42:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2271ms or 45 ticks behind
+[12:18:46] [User Authenticator #2/INFO]: UUID of player tantanpanda0513 is ef5e7c02-8b94-4b4d-a3a1-14c1cdd92a19
+[12:18:46] [Server thread/INFO]: tantanpanda0513[/25.33.82.249:61581] logged in with entity id 6928 at (343.30000001192093, 65.5625, 1750.300000011921)
+[12:18:46] [Server thread/INFO]: tantanpanda0513 joined the game
+[12:18:48] [Server thread/WARN]: tenpensizimi moved too quickly! 5.067007696536166,-2.373904036466719,-8.565313134828784
+[12:19:39] [Server thread/INFO]: tantanpanda0513 lost connection: Disconnected
+[12:19:39] [Server thread/INFO]: tantanpanda0513 left the game
+[12:19:59] [Server thread/INFO]: tenpensizimi lost connection: Disconnected
+[12:19:59] [Server thread/INFO]: tenpensizimi left the game
