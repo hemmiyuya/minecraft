@@ -1,139 +1,265 @@
-[21:36:58] [ServerMain/INFO]: Building unoptimized datafixer
-[21:36:59] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:37:00] [ServerMain/INFO]: Loaded 7 recipes
-[21:37:01] [ServerMain/INFO]: Loaded 1179 advancements
-[21:37:01] [Server thread/INFO]: Starting minecraft server version 1.19
-[21:37:01] [Server thread/INFO]: Loading properties
-[21:37:01] [Server thread/INFO]: Default game type: SURVIVAL
-[21:37:01] [Server thread/INFO]: Generating keypair
-[21:37:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:37:01] [Server thread/INFO]: Using default channel type
-[21:37:02] [Server thread/INFO]: Preparing level "world"
-[21:37:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:37:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:37:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:37:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:37:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:37:04] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:37:04] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[21:37:05] [Worker-Main-10/INFO]: Preparing spawn area: 1%
-[21:37:05] [Worker-Main-5/INFO]: Preparing spawn area: 79%
-[21:37:05] [Server thread/INFO]: Time elapsed: 3662 ms
-[21:37:05] [Server thread/INFO]: Done (3.920s)! For help, type "help"
-[21:38:20] [User Authenticator #1/INFO]: UUID of player tenpensizimi is 933aff28-38d0-4ddc-b68d-b8d215ad8a9a
-[21:38:20] [Server thread/INFO]: tenpensizimi[/25.32.157.190:59293] logged in with entity id 27 at (339.5, 71.0625, 1745.5)
-[21:38:20] [Server thread/INFO]: tenpensizimi joined the game
-[21:38:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2790ms or 55 ticks behind
-[22:00:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=385, y=87, z=1270} gt{x=412, y=86, z=1262}
-[22:00:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=385, y=87, z=1270} gt{x=412, y=86, z=1262}
-[22:04:05] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=390, y=85, z=1282} gt{x=391, y=85, z=1291}
-[22:04:05] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=390, y=85, z=1282} gt{x=391, y=85, z=1291}
-[22:04:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=390, y=85, z=1282} gt{x=391, y=85, z=1291}
-[22:04:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=392, y=85, z=1306} gt{x=393, y=85, z=1307}
-[22:04:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=392, y=85, z=1306} gt{x=393, y=85, z=1307}
-[22:07:10] [Server thread/INFO]: tenpensizimi lost connection: Disconnected
-[22:07:10] [Server thread/INFO]: tenpensizimi left the game
-[22:07:16] [User Authenticator #2/INFO]: UUID of player tenpensizimi is 933aff28-38d0-4ddc-b68d-b8d215ad8a9a
-[22:07:16] [Server thread/INFO]: tenpensizimi[/25.32.157.190:63462] logged in with entity id 13817 at (393.75512868897715, 85.0, 1267.8791116722675)
-[22:07:16] [Server thread/INFO]: tenpensizimi joined the game
-[22:10:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=374, y=85, z=1289} gt{x=374, y=85, z=1290}
-[22:10:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=374, y=85, z=1289} gt{x=374, y=85, z=1290}
-[22:10:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=374, y=85, z=1289} gt{x=374, y=85, z=1290}
-[22:10:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=374, y=85, z=1289} gt{x=374, y=85, z=1290}
-[22:11:09] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=372, y=86, z=1284} gt{x=371, y=84, z=1291}
-[22:11:09] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=372, y=86, z=1284} gt{x=371, y=84, z=1291}
-[22:11:09] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=372, y=86, z=1284} gt{x=371, y=84, z=1291}
-[22:11:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=367, y=85, z=1291} gt{x=368, y=84, z=1291}
-[22:11:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=367, y=85, z=1291} gt{x=368, y=84, z=1291}
-[22:11:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=368, y=86, z=1291} gt{x=367, y=85, z=1291}
-[22:11:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=368, y=86, z=1291} gt{x=367, y=85, z=1291}
-[22:14:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=351, y=86, z=1275} gt{x=353, y=86, z=1276}
-[22:18:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=402, y=84, z=1260} gt{x=402, y=84, z=1259}
-[22:18:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=411, y=84, z=1263} gt{x=409, y=84, z=1264}
-[22:18:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=411, y=84, z=1263} gt{x=409, y=84, z=1264}
-[22:18:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=411, y=84, z=1263} gt{x=409, y=84, z=1264}
-[22:20:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=364, y=84, z=1305} gt{x=365, y=83, z=1303}
-[22:20:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=364, y=84, z=1305} gt{x=365, y=83, z=1303}
-[22:22:55] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=386, y=84, z=1284} gt{x=386, y=84, z=1285}
-[22:22:55] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=386, y=84, z=1284} gt{x=386, y=84, z=1285}
-[22:22:55] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=386, y=84, z=1284} gt{x=386, y=84, z=1285}
-[22:22:55] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=386, y=84, z=1284} gt{x=386, y=84, z=1285}
-[22:22:56] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=386, y=84, z=1284} gt{x=386, y=84, z=1285}
-[22:22:56] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=386, y=84, z=1284} gt{x=386, y=84, z=1285}
-[22:22:56] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=386, y=84, z=1284} gt{x=386, y=84, z=1285}
-[22:23:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=348, y=84, z=1298} gt{x=347, y=84, z=1298}
-[22:28:38] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=397, y=84, z=1250} gt{x=398, y=84, z=1250}
-[22:28:38] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=83, z=1251} gt{x=393, y=83, z=1250}
-[22:28:38] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=83, z=1251} gt{x=393, y=83, z=1250}
-[22:28:38] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=83, z=1251} gt{x=393, y=83, z=1250}
-[22:28:38] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=83, z=1251} gt{x=393, y=83, z=1250}
-[22:28:38] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=83, z=1251} gt{x=393, y=83, z=1250}
-[22:34:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=378, y=80, z=1305} gt{x=381, y=81, z=1305}
-[22:34:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=388, y=82, z=1312} gt{x=388, y=82, z=1313}
-[22:34:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=388, y=82, z=1312} gt{x=388, y=82, z=1313}
-[22:36:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=397, y=82, z=1283} gt{x=398, y=82, z=1284}
-[22:38:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=408, y=82, z=1278} gt{x=410, y=82, z=1277}
-[22:42:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=81, z=1243} gt{x=401, y=82, z=1245}
-[22:42:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=399, y=82, z=1243} gt{x=399, y=82, z=1240}
-[22:42:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=399, y=82, z=1243} gt{x=399, y=82, z=1240}
-[22:47:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=401, y=80, z=1249} gt{x=401, y=80, z=1245}
-[22:47:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=401, y=80, z=1249} gt{x=401, y=80, z=1245}
-[22:47:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=401, y=80, z=1249} gt{x=401, y=80, z=1245}
-[22:47:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=401, y=80, z=1249} gt{x=401, y=80, z=1245}
-[22:47:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=401, y=80, z=1249} gt{x=401, y=80, z=1245}
-[22:57:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=368, y=81, z=1304} gt{x=367, y=81, z=1304}
-[22:57:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=368, y=81, z=1304} gt{x=367, y=81, z=1304}
-[22:57:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=368, y=81, z=1304} gt{x=367, y=81, z=1304}
-[23:01:00] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=350, y=82, z=1268} gt{x=347, y=81, z=1272}
-[23:01:00] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=350, y=82, z=1268} gt{x=347, y=81, z=1272}
-[23:01:00] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=350, y=82, z=1268} gt{x=347, y=81, z=1272}
-[23:01:00] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=350, y=82, z=1268} gt{x=347, y=81, z=1272}
-[23:01:00] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=350, y=82, z=1268} gt{x=347, y=81, z=1272}
-[23:01:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=362, y=82, z=1282} gt{x=363, y=82, z=1282}
-[23:05:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=331, y=79, z=1300} gt{x=331, y=79, z=1301}
-[23:05:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=331, y=79, z=1300} gt{x=331, y=79, z=1301}
-[23:07:01] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=327, y=79, z=1284} gt{x=327, y=78, z=1285}
-[23:07:01] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=327, y=79, z=1284} gt{x=327, y=78, z=1285}
-[23:07:01] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=327, y=79, z=1284} gt{x=327, y=78, z=1285}
-[23:07:01] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=327, y=79, z=1284} gt{x=327, y=78, z=1285}
-[23:07:01] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=327, y=79, z=1284} gt{x=327, y=78, z=1285}
-[23:09:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=375, y=80, z=1304} gt{x=376, y=80, z=1304}
-[23:09:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=375, y=80, z=1304} gt{x=378, y=80, z=1309}
-[23:09:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=375, y=80, z=1304} gt{x=378, y=80, z=1309}
-[23:09:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=375, y=80, z=1304} gt{x=378, y=80, z=1309}
-[23:09:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=375, y=80, z=1304} gt{x=378, y=80, z=1309}
-[23:09:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=375, y=80, z=1304} gt{x=378, y=80, z=1309}
-[23:09:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=375, y=80, z=1304} gt{x=378, y=80, z=1309}
-[23:09:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=375, y=80, z=1304} gt{x=378, y=80, z=1309}
-[23:11:39] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=365, y=80, z=1304} gt{x=364, y=80, z=1304}
-[23:21:23] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=407, y=80, z=1259} gt{x=407, y=79, z=1259}
-[23:21:23] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=407, y=80, z=1259} gt{x=407, y=79, z=1259}
-[23:21:23] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=407, y=80, z=1259} gt{x=407, y=79, z=1259}
-[23:21:23] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=407, y=80, z=1259} gt{x=407, y=79, z=1259}
-[23:21:23] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=407, y=80, z=1259} gt{x=407, y=79, z=1259}
-[23:21:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=363, y=80, z=1262} gt{x=363, y=79, z=1262}
-[23:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=81, z=1262} gt{x=337, y=80, z=1263}
-[23:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=81, z=1262} gt{x=337, y=80, z=1263}
-[23:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=81, z=1262} gt{x=337, y=80, z=1263}
-[23:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=81, z=1262} gt{x=337, y=80, z=1263}
-[23:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=81, z=1262} gt{x=337, y=80, z=1263}
-[23:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=81, z=1262} gt{x=337, y=80, z=1263}
-[23:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=81, z=1262} gt{x=337, y=80, z=1263}
-[23:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=81, z=1262} gt{x=337, y=80, z=1263}
-[23:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=81, z=1262} gt{x=337, y=80, z=1263}
-[23:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=81, z=1262} gt{x=337, y=80, z=1263}
-[23:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=81, z=1262} gt{x=337, y=80, z=1263}
-[23:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=81, z=1262} gt{x=337, y=80, z=1263}
-[23:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=81, z=1262} gt{x=337, y=80, z=1263}
-[23:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=81, z=1262} gt{x=337, y=80, z=1263}
-[23:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=81, z=1262} gt{x=337, y=80, z=1263}
-[23:28:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=81, z=1262} gt{x=337, y=80, z=1263}
-[23:28:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=81, z=1262} gt{x=337, y=80, z=1263}
-[23:28:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=81, z=1262} gt{x=337, y=80, z=1263}
-[23:28:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=80, z=1256} gt{x=337, y=80, z=1256}
-[23:28:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=338, y=80, z=1256} gt{x=337, y=80, z=1256}
-[23:33:30] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=343, y=81, z=1246} gt{x=342, y=80, z=1248}
-[23:34:40] [Server thread/INFO]: tenpensizimi lost connection: Disconnected
-[23:34:40] [Server thread/INFO]: tenpensizimi left the game
-[23:35:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:35:16] [Server thread/INFO]: logout<--[HERE]
+[18:38:10] [ServerMain/INFO]: Building unoptimized datafixer
+[18:38:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:38:17] [ServerMain/INFO]: Loaded 7 recipes
+[18:38:18] [ServerMain/INFO]: Loaded 1179 advancements
+[18:38:22] [Server thread/INFO]: Starting minecraft server version 1.19
+[18:38:22] [Server thread/INFO]: Loading properties
+[18:38:22] [Server thread/INFO]: Default game type: SURVIVAL
+[18:38:22] [Server thread/INFO]: Generating keypair
+[18:38:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:38:23] [Server thread/INFO]: Using default channel type
+[18:38:23] [Server thread/INFO]: Preparing level "world"
+[18:38:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:38:28] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:38:28] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:38:28] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:38:28] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:38:28] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:38:28] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[18:38:28] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[18:38:28] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[18:38:28] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[18:38:28] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:38:29] [Worker-Main-9/INFO]: Preparing spawn area: 20%
+[18:38:29] [Worker-Main-9/INFO]: Preparing spawn area: 91%
+[18:38:29] [Server thread/INFO]: Time elapsed: 5572 ms
+[18:38:29] [Server thread/INFO]: Done (6.314s)! For help, type "help"
+[18:39:01] [User Authenticator #1/INFO]: UUID of player tenpensizimi is 933aff28-38d0-4ddc-b68d-b8d215ad8a9a
+[18:39:01] [Server thread/INFO]: tenpensizimi[/25.32.157.190:52184] logged in with entity id 26 at (339.5, 71.0625, 1747.5)
+[18:39:01] [Server thread/INFO]: tenpensizimi joined the game
+[18:39:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3500ms or 70 ticks behind
+[18:48:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=353, y=75, z=1316} gt{x=353, y=74, z=1317}
+[18:48:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=353, y=75, z=1316} gt{x=353, y=74, z=1317}
+[18:48:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=353, y=75, z=1316} gt{x=353, y=74, z=1317}
+[18:48:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=352, y=77, z=1310} gt{x=351, y=77, z=1310}
+[18:48:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=352, y=77, z=1312} gt{x=352, y=76, z=1312}
+[18:48:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=352, y=77, z=1312} gt{x=352, y=76, z=1312}
+[18:48:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=352, y=77, z=1312} gt{x=352, y=76, z=1312}
+[18:48:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=352, y=77, z=1312} gt{x=352, y=76, z=1312}
+[18:48:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=352, y=77, z=1312} gt{x=352, y=76, z=1312}
+[18:48:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=352, y=77, z=1312} gt{x=352, y=76, z=1312}
+[18:49:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=332, y=77, z=1317} gt{x=330, y=76, z=1318}
+[18:50:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=350, y=77, z=1328} gt{x=338, y=75, z=1320}
+[18:50:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=350, y=77, z=1328} gt{x=338, y=75, z=1320}
+[18:50:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=350, y=77, z=1328} gt{x=338, y=75, z=1320}
+[18:58:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=329, y=70, z=1314} gt{x=326, y=69, z=1315}
+[18:58:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=329, y=70, z=1314} gt{x=329, y=69, z=1313}
+[18:58:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=329, y=70, z=1314} gt{x=329, y=69, z=1313}
+[18:58:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=329, y=70, z=1314} gt{x=329, y=69, z=1313}
+[18:58:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=329, y=70, z=1314} gt{x=329, y=69, z=1313}
+[19:20:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=319, y=76, z=1324} gt{x=320, y=76, z=1324}
+[19:20:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=319, y=76, z=1324} gt{x=320, y=76, z=1324}
+[19:20:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=319, y=76, z=1324} gt{x=320, y=76, z=1324}
+[19:26:29] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=308, y=68, z=1331} gt{x=309, y=68, z=1332}
+[19:28:03] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=320, y=68, z=1312} gt{x=319, y=67, z=1313}
+[19:28:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=307, y=64, z=1333} gt{x=308, y=66, z=1331}
+[19:28:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=307, y=64, z=1333} gt{x=308, y=66, z=1331}
+[19:28:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=307, y=64, z=1333} gt{x=308, y=66, z=1331}
+[19:28:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=307, y=64, z=1333} gt{x=308, y=66, z=1331}
+[19:28:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=307, y=64, z=1333} gt{x=308, y=66, z=1331}
+[19:28:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=307, y=64, z=1333} gt{x=308, y=66, z=1331}
+[19:28:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=310, y=66, z=1330} gt{x=310, y=65, z=1331}
+[19:28:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=310, y=66, z=1330} gt{x=310, y=65, z=1331}
+[19:28:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=310, y=66, z=1330} gt{x=310, y=65, z=1331}
+[19:28:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=310, y=66, z=1330} gt{x=310, y=65, z=1331}
+[19:28:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=310, y=66, z=1330} gt{x=310, y=65, z=1331}
+[19:28:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=310, y=66, z=1330} gt{x=310, y=65, z=1331}
+[19:28:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=310, y=66, z=1330} gt{x=310, y=65, z=1331}
+[19:46:38] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=318, y=88, z=1324} gt{x=354, y=78, z=1311}
+[19:46:38] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=318, y=88, z=1324} gt{x=354, y=78, z=1311}
+[19:46:38] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=318, y=88, z=1324} gt{x=354, y=78, z=1311}
+[19:46:38] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=318, y=88, z=1324} gt{x=354, y=78, z=1311}
+[19:46:39] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=358, y=78, z=1312} gt{x=357, y=78, z=1313}
+[19:46:39] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=358, y=78, z=1312} gt{x=357, y=78, z=1313}
+[19:48:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=375, y=78, z=1356} gt{x=377, y=78, z=1357}
+[19:48:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=375, y=78, z=1356} gt{x=377, y=78, z=1357}
+[19:48:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=375, y=78, z=1356} gt{x=377, y=78, z=1357}
+[19:48:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=372, y=80, z=1359} gt{x=373, y=79, z=1360}
+[19:48:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=372, y=80, z=1359} gt{x=373, y=79, z=1360}
+[19:48:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=372, y=80, z=1359} gt{x=373, y=79, z=1360}
+[19:48:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=372, y=80, z=1359} gt{x=373, y=79, z=1360}
+[19:48:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=372, y=80, z=1359} gt{x=373, y=79, z=1360}
+[19:48:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=372, y=80, z=1359} gt{x=373, y=79, z=1360}
+[19:51:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=377, y=77, z=1331} gt{x=376, y=77, z=1329}
+[19:51:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=377, y=77, z=1331} gt{x=376, y=77, z=1329}
+[19:51:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=377, y=77, z=1331} gt{x=376, y=77, z=1329}
+[19:51:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=377, y=77, z=1331} gt{x=376, y=77, z=1329}
+[19:51:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=377, y=77, z=1331} gt{x=376, y=77, z=1329}
+[19:52:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=376, y=78, z=1321} gt{x=376, y=78, z=1322}
+[19:57:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=363, y=75, z=1351} gt{x=363, y=76, z=1346}
+[20:03:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=362, y=74, z=1341} gt{x=363, y=73, z=1341}
+[20:04:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=359, y=73, z=1350} gt{x=377, y=72, z=1367}
+[20:06:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=370, y=71, z=1327} gt{x=370, y=72, z=1326}
+[20:10:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=378, y=69, z=1342} gt{x=377, y=69, z=1342}
+[20:10:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=378, y=69, z=1342} gt{x=377, y=69, z=1342}
+[20:10:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=378, y=69, z=1342} gt{x=377, y=69, z=1342}
+[20:11:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=375, y=69, z=1330} gt{x=376, y=69, z=1331}
+[20:11:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=375, y=69, z=1330} gt{x=376, y=69, z=1331}
+[20:11:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=375, y=69, z=1330} gt{x=376, y=69, z=1331}
+[20:11:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=375, y=69, z=1330} gt{x=376, y=69, z=1331}
+[20:14:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=356, y=70, z=1311} gt{x=357, y=69, z=1311}
+[20:14:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=356, y=70, z=1311} gt{x=357, y=69, z=1311}
+[20:14:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=356, y=70, z=1311} gt{x=357, y=69, z=1311}
+[20:14:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=359, y=68, z=1311} gt{x=358, y=67, z=1311}
+[20:14:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=359, y=68, z=1311} gt{x=358, y=67, z=1311}
+[20:14:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=359, y=68, z=1311} gt{x=358, y=67, z=1311}
+[20:16:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=378, y=68, z=1329} gt{x=377, y=68, z=1330}
+[20:19:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=359, y=67, z=1348} gt{x=357, y=66, z=1346}
+[20:19:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=359, y=67, z=1348} gt{x=357, y=66, z=1346}
+[20:19:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=359, y=67, z=1348} gt{x=357, y=66, z=1346}
+[20:19:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=358, y=66, z=1346} gt{x=358, y=66, z=1348}
+[20:19:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=363, y=67, z=1345} gt{x=359, y=66, z=1346}
+[20:19:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=363, y=67, z=1345} gt{x=359, y=66, z=1346}
+[20:19:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=362, y=68, z=1345} gt{x=363, y=68, z=1344}
+[20:19:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=362, y=68, z=1345} gt{x=363, y=68, z=1344}
+[20:19:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=362, y=68, z=1345} gt{x=363, y=68, z=1344}
+[20:19:32] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=359, y=68, z=1353} gt{x=357, y=67, z=1354}
+[20:19:32] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=359, y=68, z=1353} gt{x=357, y=67, z=1354}
+[20:20:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=366, y=68, z=1348} gt{x=367, y=67, z=1349}
+[20:20:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=366, y=68, z=1348} gt{x=367, y=67, z=1349}
+[20:20:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=366, y=68, z=1348} gt{x=367, y=67, z=1349}
+[20:20:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=366, y=68, z=1348} gt{x=367, y=67, z=1349}
+[20:20:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=368, y=68, z=1346} gt{x=367, y=67, z=1347}
+[20:20:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=368, y=68, z=1346} gt{x=367, y=67, z=1347}
+[20:20:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=368, y=68, z=1346} gt{x=367, y=67, z=1347}
+[20:20:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=368, y=68, z=1346} gt{x=367, y=67, z=1347}
+[20:36:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=80, z=1331} gt{x=393, y=79, z=1332}
+[20:36:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=80, z=1331} gt{x=393, y=79, z=1332}
+[20:36:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=80, z=1331} gt{x=393, y=79, z=1332}
+[20:36:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=80, z=1331} gt{x=393, y=79, z=1332}
+[20:36:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=80, z=1331} gt{x=393, y=79, z=1332}
+[20:36:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=80, z=1331} gt{x=393, y=79, z=1332}
+[20:42:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=393, y=80, z=1329} gt{x=393, y=80, z=1330}
+[20:42:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=80, z=1329} gt{x=396, y=80, z=1330}
+[20:42:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=395, y=79, z=1331} gt{x=393, y=78, z=1331}
+[20:42:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=395, y=79, z=1331} gt{x=393, y=78, z=1331}
+[20:42:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=395, y=79, z=1331} gt{x=393, y=78, z=1331}
+[20:42:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=395, y=79, z=1331} gt{x=393, y=78, z=1331}
+[20:42:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=395, y=79, z=1331} gt{x=393, y=78, z=1331}
+[20:43:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=403, y=84, z=1343} gt{x=404, y=83, z=1345}
+[20:43:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=403, y=84, z=1343} gt{x=404, y=83, z=1345}
+[20:43:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=403, y=84, z=1343} gt{x=404, y=83, z=1345}
+[20:43:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=406, y=84, z=1344} gt{x=405, y=83, z=1343}
+[20:43:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=406, y=84, z=1344} gt{x=405, y=83, z=1343}
+[20:43:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=406, y=84, z=1344} gt{x=405, y=83, z=1343}
+[20:43:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=406, y=84, z=1344} gt{x=405, y=83, z=1343}
+[20:43:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=406, y=84, z=1344} gt{x=405, y=83, z=1343}
+[20:43:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=406, y=84, z=1344} gt{x=405, y=83, z=1343}
+[20:43:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=406, y=84, z=1344} gt{x=405, y=83, z=1343}
+[20:43:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=406, y=84, z=1344} gt{x=405, y=83, z=1343}
+[20:43:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=406, y=84, z=1344} gt{x=405, y=83, z=1343}
+[20:43:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=406, y=84, z=1344} gt{x=405, y=83, z=1343}
+[20:43:24] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=403, y=84, z=1351} gt{x=404, y=84, z=1351}
+[20:43:24] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=403, y=84, z=1351} gt{x=404, y=84, z=1351}
+[20:43:24] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=403, y=84, z=1351} gt{x=404, y=84, z=1351}
+[20:43:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=403, y=84, z=1351} gt{x=404, y=84, z=1351}
+[20:43:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=403, y=84, z=1351} gt{x=404, y=84, z=1351}
+[20:43:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=403, y=84, z=1351} gt{x=404, y=84, z=1351}
+[20:43:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=403, y=84, z=1351} gt{x=404, y=84, z=1351}
+[20:43:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=403, y=84, z=1351} gt{x=404, y=84, z=1351}
+[21:00:29] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=381, y=75, z=1336} gt{x=380, y=74, z=1334}
+[21:00:29] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=381, y=75, z=1336} gt{x=380, y=74, z=1334}
+[21:02:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=77, z=1329} gt{x=394, y=75, z=1326}
+[21:02:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=395, y=77, z=1328} gt{x=395, y=76, z=1328}
+[21:02:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=78, z=1334} gt{x=394, y=77, z=1333}
+[21:02:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=78, z=1334} gt{x=394, y=77, z=1333}
+[21:02:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=78, z=1334} gt{x=394, y=77, z=1333}
+[21:02:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=78, z=1334} gt{x=394, y=77, z=1333}
+[21:02:23] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=396, y=78, z=1330} gt{x=395, y=77, z=1329}
+[21:02:23] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=396, y=78, z=1330} gt{x=395, y=77, z=1329}
+[21:02:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=397, y=76, z=1333} gt{x=397, y=76, z=1332}
+[21:02:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=397, y=76, z=1333} gt{x=397, y=76, z=1332}
+[21:02:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=397, y=76, z=1333} gt{x=397, y=76, z=1332}
+[21:02:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=397, y=76, z=1333} gt{x=397, y=76, z=1332}
+[21:02:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=397, y=76, z=1333} gt{x=397, y=76, z=1332}
+[21:02:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=397, y=76, z=1333} gt{x=397, y=76, z=1332}
+[21:02:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=397, y=76, z=1333} gt{x=397, y=76, z=1332}
+[21:02:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=397, y=76, z=1333} gt{x=397, y=76, z=1332}
+[21:02:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=397, y=76, z=1333} gt{x=397, y=76, z=1332}
+[21:02:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=77, z=1329} gt{x=400, y=77, z=1328}
+[21:02:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=77, z=1329} gt{x=400, y=77, z=1328}
+[21:02:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=77, z=1329} gt{x=400, y=77, z=1328}
+[21:02:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=77, z=1329} gt{x=400, y=77, z=1328}
+[21:02:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=77, z=1329} gt{x=400, y=77, z=1328}
+[21:02:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=77, z=1329} gt{x=400, y=77, z=1328}
+[21:02:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=77, z=1329} gt{x=400, y=77, z=1328}
+[21:02:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=77, z=1329} gt{x=400, y=77, z=1328}
+[21:02:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=77, z=1329} gt{x=400, y=77, z=1328}
+[21:02:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=77, z=1329} gt{x=400, y=77, z=1328}
+[21:02:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=77, z=1329} gt{x=400, y=77, z=1328}
+[21:02:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=77, z=1329} gt{x=400, y=77, z=1328}
+[21:02:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=77, z=1329} gt{x=400, y=77, z=1328}
+[21:02:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=78, z=1327} gt{x=400, y=79, z=1327}
+[21:02:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=78, z=1327} gt{x=400, y=79, z=1327}
+[21:02:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=78, z=1327} gt{x=400, y=79, z=1327}
+[21:02:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=78, z=1327} gt{x=400, y=79, z=1327}
+[21:02:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=78, z=1327} gt{x=400, y=79, z=1327}
+[21:02:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=78, z=1327} gt{x=400, y=79, z=1327}
+[21:02:55] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=401, y=81, z=1316} gt{x=402, y=80, z=1317}
+[21:02:55] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=401, y=81, z=1316} gt{x=402, y=80, z=1317}
+[21:02:55] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=401, y=81, z=1316} gt{x=402, y=80, z=1317}
+[21:02:55] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=401, y=81, z=1316} gt{x=402, y=80, z=1317}
+[21:02:55] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=401, y=81, z=1316} gt{x=402, y=80, z=1317}
+[21:02:55] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=401, y=81, z=1316} gt{x=402, y=80, z=1317}
+[21:02:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=404, y=79, z=1316} gt{x=401, y=79, z=1325}
+[21:03:00] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=404, y=79, z=1316} gt{x=401, y=79, z=1325}
+[21:03:24] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=403, y=81, z=1346} gt{x=401, y=80, z=1347}
+[21:03:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=403, y=81, z=1346} gt{x=401, y=80, z=1347}
+[21:03:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=403, y=81, z=1346} gt{x=401, y=80, z=1347}
+[21:03:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=79, z=1337} gt{x=396, y=78, z=1338}
+[21:03:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=79, z=1337} gt{x=396, y=78, z=1338}
+[21:03:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=79, z=1337} gt{x=396, y=78, z=1338}
+[21:03:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=79, z=1337} gt{x=396, y=78, z=1338}
+[21:03:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=79, z=1337} gt{x=396, y=78, z=1338}
+[21:03:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=79, z=1337} gt{x=396, y=78, z=1338}
+[21:03:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=394, y=79, z=1337} gt{x=396, y=78, z=1338}
+[21:03:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=397, y=76, z=1337} gt{x=394, y=76, z=1338}
+[21:03:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=397, y=76, z=1337} gt{x=394, y=76, z=1338}
+[21:03:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=397, y=76, z=1337} gt{x=394, y=76, z=1338}
+[21:05:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=385, y=72, z=1337} gt{x=383, y=72, z=1338}
+[21:05:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=385, y=72, z=1337} gt{x=383, y=72, z=1338}
+[21:05:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=385, y=72, z=1337} gt{x=383, y=72, z=1338}
+[21:05:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=385, y=72, z=1337} gt{x=383, y=72, z=1338}
+[21:05:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=385, y=72, z=1337} gt{x=383, y=72, z=1338}
+[21:08:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=379, y=69, z=1313} gt{x=383, y=70, z=1313}
+[21:08:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=379, y=69, z=1313} gt{x=383, y=70, z=1313}
+[21:08:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=379, y=69, z=1313} gt{x=383, y=70, z=1313}
+[21:08:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=379, y=69, z=1313} gt{x=383, y=70, z=1313}
+[21:08:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=379, y=69, z=1313} gt{x=383, y=70, z=1313}
+[21:08:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=379, y=69, z=1313} gt{x=383, y=70, z=1313}
+[21:08:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=379, y=69, z=1313} gt{x=383, y=70, z=1313}
+[21:08:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=379, y=69, z=1313} gt{x=383, y=70, z=1313}
+[21:08:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=379, y=69, z=1313} gt{x=383, y=70, z=1313}
+[21:08:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=379, y=69, z=1313} gt{x=383, y=70, z=1313}
+[21:08:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=379, y=69, z=1313} gt{x=383, y=70, z=1313}
+[21:10:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=392, y=70, z=1323} gt{x=393, y=70, z=1323}
+[21:10:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=392, y=70, z=1323} gt{x=393, y=70, z=1323}
+[21:10:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=393, y=71, z=1324} gt{x=392, y=71, z=1323}
+[21:10:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=393, y=71, z=1324} gt{x=392, y=71, z=1323}
+[21:10:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=393, y=71, z=1324} gt{x=392, y=71, z=1323}
+[21:10:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=393, y=71, z=1324} gt{x=392, y=71, z=1323}
+[21:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=382, y=69, z=1332} gt{x=383, y=69, z=1332}
+[21:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=382, y=69, z=1332} gt{x=383, y=69, z=1332}
+[21:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=382, y=69, z=1332} gt{x=383, y=69, z=1332}
+[21:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=382, y=69, z=1332} gt{x=383, y=69, z=1332}
+[21:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=382, y=69, z=1332} gt{x=383, y=69, z=1332}
+[21:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=382, y=69, z=1332} gt{x=383, y=69, z=1332}
+[21:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=382, y=69, z=1332} gt{x=383, y=69, z=1332}
+[21:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=382, y=69, z=1332} gt{x=383, y=69, z=1332}
+[21:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=382, y=69, z=1332} gt{x=383, y=69, z=1332}
+[21:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=382, y=69, z=1332} gt{x=383, y=69, z=1332}
+[21:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=382, y=69, z=1332} gt{x=383, y=69, z=1332}
+[21:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=382, y=69, z=1332} gt{x=383, y=69, z=1332}
+[21:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=382, y=69, z=1332} gt{x=383, y=69, z=1332}
+[21:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=382, y=69, z=1332} gt{x=383, y=69, z=1332}
+[21:15:38] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=380, y=66, z=1343} gt{x=379, y=66, z=1342}
+[21:15:38] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=380, y=66, z=1343} gt{x=379, y=66, z=1342}
+[21:20:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=392, y=65, z=1370} gt{x=390, y=65, z=1370}
+[21:21:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=335, y=77, z=1309} gt{x=335, y=77, z=1308}
+[21:21:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=335, y=77, z=1309} gt{x=335, y=77, z=1308}
+[21:21:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=335, y=77, z=1309} gt{x=335, y=77, z=1308}
+[21:21:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=335, y=77, z=1309} gt{x=335, y=77, z=1308}
+[21:21:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=333, y=77, z=1303} gt{x=333, y=76, z=1302}
+[21:21:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=330, y=78, z=1305} gt{x=330, y=78, z=1303}
+[21:22:29] [Server thread/INFO]: tenpensizimi lost connection: Disconnected
+[21:22:29] [Server thread/INFO]: tenpensizimi left the game
